@@ -1,6 +1,6 @@
 cask "codraft" do                                                                                               
-  version "0.0.34"                                                                                              
-  sha256 "53a574f5c255f925c72f7bd3d10eedfa661f82a4b07194698a3d6c25265be4f9"                                     
+  version "0.0.35"                                                                                              
+  sha256 "31142dadded3905fea748385b7d957e0f52e9f6697b15e56efa053f0c26ac1a3"                                     
                                                                                                                 
   url                                        
 "https://github.com/mehmetsagir/codraft-releases/releases/download/v#{version}/Codraft-#{version}-arm64.dmg"
